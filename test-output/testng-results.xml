@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="215" started-at="2022-02-25T02:10:11 IST" finished-at="2022-02-25T02:10:12 IST">
+  <suite name="Default suite" duration-ms="677" started-at="2022-02-27T11:49:55 IST" finished-at="2022-02-27T11:49:56 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="215" started-at="2022-02-25T02:10:11 IST" finished-at="2022-02-25T02:10:12 IST">
+    <test name="Default test" duration-ms="677" started-at="2022-02-27T11:49:55 IST" finished-at="2022-02-27T11:49:56 IST">
       <class name="com.crm.OrgTest.OrganizationTest">
-        <test-method status="PASS" signature="createorgTest()[pri:0, instance:com.crm.OrgTest.OrganizationTest@1d29cf23]" name="createorgTest" duration-ms="30" started-at="2022-02-25T02:10:11 IST" finished-at="2022-02-25T02:10:11 IST">
+        <test-method status="PASS" signature="createorgTest()[pri:0, instance:com.crm.OrgTest.OrganizationTest@1d29cf23]" name="createorgTest" duration-ms="24" started-at="2022-02-27T11:49:56 IST" finished-at="2022-02-27T11:49:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createorgTest -->
-        <test-method status="PASS" signature="modifyorgTest()[pri:0, instance:com.crm.OrgTest.OrganizationTest@1d29cf23]" name="modifyorgTest" duration-ms="5" started-at="2022-02-25T02:10:11 IST" finished-at="2022-02-25T02:10:11 IST">
+        <test-method status="PASS" signature="modifyorgTest()[pri:0, instance:com.crm.OrgTest.OrganizationTest@1d29cf23]" name="modifyorgTest" duration-ms="3" started-at="2022-02-27T11:49:56 IST" finished-at="2022-02-27T11:49:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyorgTest -->

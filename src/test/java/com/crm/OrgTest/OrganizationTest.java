@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class OrganizationTest {
 	
-	@Test
+	@Test(groups = "regression test")
 	
      public void createorgTest() {
 		 System.out.println("execute createorg test");
